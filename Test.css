@@ -1,0 +1,13 @@
+ html {
+   background-color: lightblue;
+   font-style: italic;
+ }
+
+span.hidden-message{
+  opacity: 0.0;
+  color: red;
+}
+span.shown-message{
+  opacity: 1.0;
+  color: red;
+}
